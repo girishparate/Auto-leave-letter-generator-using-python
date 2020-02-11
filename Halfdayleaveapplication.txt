@@ -1,0 +1,15 @@
+Half day leave application 
+
+
+
+Subject: Leave Application for Half a Day
+ 
+Dear $auth_gen $auth_name,
+
+I am writing this letter to inform you that I will not be able to come to work on time on $date as $reason. $description. I will come to the office around $thour:$tmin and try to get as much work done as possible.
+
+I am sure the team will handle everything exceptionally. Please contact me on $email or $contact if you have any doubts or queries about the current project.
+
+Sincerely,
+$name
+

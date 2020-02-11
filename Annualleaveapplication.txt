@@ -1,0 +1,20 @@
+Annual leave application
+
+
+
+Subject: Annual leave application
+
+Dear $auth_gen $auth_name, 
+
+I am writing this letter to let you know that I am in need of a long-term leave. Thus, I would like to avail my full annual leave allotment as I have my complete yearly leave allowance. 
+
+I request you to consider my leave application of $period days as I am $reason. I would like to avail the leaves from $s_date to $e_date. 
+
+I have delegated my current project to $p'sgen $p'sname. $p'sgen $p'sname very well understands about my project and is capable of handling the task without any difficulties. 
+
+During the days of my absence from office, I can be reached at $email or $contact.
+
+I will return to the office on $r_date. In case I want to resume the work sooner or later than the stated date, I will let you know well in advance.  
+
+Yours Sincerely,  
+$name

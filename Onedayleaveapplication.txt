@@ -1,0 +1,16 @@
+One day leave application 
+
+
+Subject: Personal Leave Application for a Day
+
+Dear $auth_gen $auth_name,
+
+I am writing this letter to inform you that I need to take a day of absence on the $date. $reason. I will be back in the office the next day without fail.
+
+You can contact me on $email & $contact in case of questions or clarifications. I have emailed you a copy of the work plan for the day I plan to take leave. I am sure the team will handle everything perfectly during my absence.
+
+I apologise for any inconvenience caused due to my absence and hope that you will understand my situation.
+
+Sincerely,
+$name
+

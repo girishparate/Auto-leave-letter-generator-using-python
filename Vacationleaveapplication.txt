@@ -1,0 +1,17 @@
+Vacation leave application 
+
+
+
+Subject: Leave application for family vacation
+
+Dear $auth_gen $auth_name,
+
+I am writing to request your approval for a $period day leave for my planned vacation. I would like to take my vacation during the $season from $s_date to $e_date to take a trip through the $place with family.
+
+I feel incredibly confident that the rest of the team should be able to continue excellent work during my absence. 
+
+I look forward to your response and also thank you for your consideration. 
+
+Yours sincerely,
+$name
+

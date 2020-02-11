@@ -1,0 +1,20 @@
+Paternity leave application
+
+
+Subject: Paternity leave application
+
+Dear $auth_gen $auth_name,
+
+I am writing this letter to let you know that my wife is in the final stage of her pregnancy and the due date is fast approaching. 
+
+Since this is going to be our $baby baby, I am way too excited to see my child and desire to be with her during the delivery and a couple of weeks post the delivery. 
+
+As we stay alone and my parents are going to join us in a few weeks, I request you to grant me leave for $period days, beginning from the $s_date. 
+
+I have transferred the important duties to my associate $p'gen $p'sname, and $p'gen $p'sname will look after the tasks until I get back to work. 
+
+I hope you understand my situation and authorize my paternity leave as soon as possible. 
+
+Thanks and regards, 
+$name
+

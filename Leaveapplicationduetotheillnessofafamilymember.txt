@@ -1,0 +1,16 @@
+Leave application due to the illness of a family member
+
+
+Subject: Leave application due to the illness of a family member
+
+Dear $auth_gen $auth_name,
+
+I am writing this letter to let you know about my requirement for an important and unexpected leave. This is because of an emergency in the family. We have just got the news that $reason. I will be quickly heading to the hospital to be with $genofmem and look after the family. 
+
+I plan to return to work  on $r_date. I feel confident that my current projects are not going to suffer from such a quick absence and that my work record speaks for itself as much as my ability to make up for lost time. 
+ 
+I appreciate your support in this matter and anticipate hearing a response from you. 
+
+Yours sincerely, 
+$name
+
